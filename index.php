@@ -1,7 +1,6 @@
 <?php
     include_once("templates/header.php")
 ?>
-
     <main>
         <div id="title-container">
             <h1> Platinum Slime Studios </h1>
@@ -23,8 +22,7 @@
                 </div>
             <?php endforeach?>
         </div>
-    </main>
-    
+    </main> 
 <?php
     include_once("templates/footer.php")
 ?>
